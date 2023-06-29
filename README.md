@@ -3,5 +3,5 @@
 
 # Запуск:
 1. Создайте virtual environment с python 3.10
-2. становите зависимости: pip install -r requirements.txt
+2. Установите зависимости: pip install -r requirements.txt
 3. Для выполнения ноутбуков вам понадобится датасет
